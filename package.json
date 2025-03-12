@@ -1,0 +1,25 @@
+{
+  "name": "e-learning-backend",
+  "version": "1.0.0",
+  "description": "kujh bhi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "cors",
+    "dotenv",
+    "body-parser"
+  ],
+  "author": "BS",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "joi": "^17.13.3",
+    "mongoose": "^8.12.1"
+  }
+}
